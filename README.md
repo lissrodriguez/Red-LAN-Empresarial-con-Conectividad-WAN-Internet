@@ -1,4 +1,3 @@
-# Red-LAN-Empresarial-con-Conectividad-WAN-Internet
 # Diseños e Implementación de Red LAN Empresarial con Conectividad WAN/Internet
 
 ## Descripción del Proyecto
